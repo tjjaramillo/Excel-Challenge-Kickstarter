@@ -49,7 +49,7 @@ Using the database provided, I modifies and analyzed the data of 4,000 past Kick
 2. What are some limitations of this dataset?
 3. What are some other possible tables and/or graphs that we could create?
 
-## Bonus
+## Further Analysis
 
 * Created a new sheet with 8 columns:
 
@@ -85,7 +85,7 @@ Using the database provided, I modifies and analyzed the data of 4,000 past Kick
 
 * Created a line chart that graphed the relationship between a goal's amount and its chances at success, failure, or cancellation.
 
-## Bonus Statistical Analysis
+## Further Statistical Analysis
 
 If one were to describe a successful crowdfunding campaign, most people would use the number of campaign backers as a metric of success. One of the most efficient ways that data scientists characterize a quantitative metric, such as the number of campaign backers, is by creating a summary statistics table.
 
