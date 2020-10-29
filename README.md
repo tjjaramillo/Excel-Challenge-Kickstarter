@@ -11,7 +11,7 @@ Getting funded on Kickstarter requires meeting or exceeding the project's initia
 
 ![Kickstarter Table](Images/FullTable.png)
 
-Using the database provided, I modifies and analyzed the data of 4,000 past Kickstarter projects to attempt to uncover some market trends.
+Using the database provided, I modified and analyzed the data of 4,000 past Kickstarter projects to attempt to uncover some market trends.
 
 * Used conditional formatting to fill each cell in the `state` column with a different color, depending on whether the associated campaign was successful, failed, or canceled, or is currently live.
 
